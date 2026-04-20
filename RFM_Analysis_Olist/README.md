@@ -42,4 +42,4 @@
 ## Как запустить
 1. Склонируйте репозиторий.
 2. Установите зависимости: pip install pandas matplotlib seaborn squarify.
-3. Запустите Jupyter Notebook с анализом.
+3. Запустите rfm_analysis_olist.ipynb с анализом.
